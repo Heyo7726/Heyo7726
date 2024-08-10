@@ -1,3 +1,3 @@
-learning c# once in a year
+interested in c#
 
 learning lua
