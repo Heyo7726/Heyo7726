@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Heyo7726
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C# and Lua
 - 📫 How to reach me: Discord Heyo#7626
